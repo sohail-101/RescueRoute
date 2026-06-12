@@ -298,6 +298,11 @@ https://github.com/user-attachments/assets/aed46932-d6a4-42e6-8587-f9cbecd87063
 
 **using video files as input**
 
+<img width="1777" height="935" alt="image" src="https://github.com/user-attachments/assets/e973b7c8-346b-460c-97c0-01cf7c5abe8c" />
+
+**using camera as input**
+
+<img width="1563" height="765" alt="image" src="https://github.com/user-attachments/assets/2b892fa4-9135-41a7-8273-c247491c92a7" />
 
 
 
