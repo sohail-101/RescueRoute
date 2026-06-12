@@ -283,15 +283,22 @@ CFG = {
 ---
 ## Media
 **IOT SETUP**
+
 <img width="393" height="699" alt="image" src="https://github.com/user-attachments/assets/15d6e908-1583-48de-9f06-05bf22eb4e65" />
 <img width="393" height="699" alt="image" src="https://github.com/user-attachments/assets/44e96c6a-b5c2-4bde-b8ca-5b82e178f47b" />
 
 
 **Normal Traffic Cycle(ie no emergency vehicles)**
+
 https://github.com/user-attachments/assets/aed46932-d6a4-42e6-8587-f9cbecd87063
 
 **When Ambualnce detected**
+
 <img width="608" height="585" alt="image" src="https://github.com/user-attachments/assets/15bd48a9-c314-4dd7-9a70-b999df254e88" />
+
+**using video files as input**
+
+
 
 
 
