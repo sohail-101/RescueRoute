@@ -295,6 +295,8 @@ https://github.com/user-attachments/assets/aed46932-d6a4-42e6-8587-f9cbecd87063
 **When Ambualnce detected**
 
 <img width="608" height="585" alt="image" src="https://github.com/user-attachments/assets/15bd48a9-c314-4dd7-9a70-b999df254e88" />
+<img width="392" height="235" alt="image" src="https://github.com/user-attachments/assets/e3e78385-9518-45eb-aa84-ac47a1c8459b" />
+
 
 **using video files as input (2 lane scenario)**
 
