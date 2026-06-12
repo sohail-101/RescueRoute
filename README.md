@@ -251,3 +251,51 @@ CFG = {
 | `multi_input.py` | `MultiStreamReader` — threaded 4-stream reader, `build_grid()` compositor |
 | `communication.py` | `SerialController` — auto-detects Arduino, dual protocol, simulation fallback |
 | `traffic_lights.ino` | Arduino firmware — dual-protocol parser, yellow transition, ACK replies |
+
+---
+## The Process
+- First, I identified a common problem where ambulances get stuck in traffic and lose valuable time.
+- I planned a system that could detect emergency vehicles and help them move through intersections faster.
+- I used Python, OpenCV, and YOLOv8 to detect vehicles from camera footage.
+- I added special detection methods to identify ambulances and emergency vehicles.
+- The road was divided into different zones to know which direction the vehicle was coming from.
+- I created a traffic control system that changes signals based on vehicle detection.
+- When an ambulance is detected, the system gives a green light to its lane.
+- I built a visual traffic signal simulator to show the signal status in real time.
+- I connected the software to an Arduino to control physical traffic lights using LEDs.
+- I tested the project with videos, webcam input, and model vehicles.
+- After several improvements and testing, the system was able to automatically prioritize emergency vehicles and reduce waiting time at intersections.
+
+---
+## Possible Improvements
+- Improve the ambulance detection system to work better in bad weather and at night.
+- Add support for more types of emergency vehicles such as fire trucks and police cars.
+- Use GPS data from ambulances for faster and more accurate signal control.
+- Connect multiple intersections so a complete green corridor can be created.
+- Develop a mobile app for traffic monitoring and system control.
+- Store traffic data in a cloud database for analysis and reporting.
+- Use machine learning to predict traffic congestion before it happens.
+- Add live notifications for traffic authorities when an emergency vehicle is detected.
+- Improve the user interface to make monitoring easier and more interactive.
+- Test the system on real roads and larger traffic networks.
+- Integrate the project with smart city infrastructure for city-wide traffic management.
+
+---
+## Media
+**IOT SETUP**
+<img width="393" height="699" alt="image" src="https://github.com/user-attachments/assets/15d6e908-1583-48de-9f06-05bf22eb4e65" />
+<img width="393" height="699" alt="image" src="https://github.com/user-attachments/assets/44e96c6a-b5c2-4bde-b8ca-5b82e178f47b" />
+
+
+**Normal Traffic Cycle(ie no emergency vehicles)**
+https://github.com/user-attachments/assets/aed46932-d6a4-42e6-8587-f9cbecd87063
+
+**When Ambualnce detected**
+<img width="608" height="585" alt="image" src="https://github.com/user-attachments/assets/15bd48a9-c314-4dd7-9a70-b999df254e88" />
+
+
+
+
+
+
+
